@@ -1,7 +1,6 @@
 package mantis.tests;
 
 import mantis.pages.MantisSite;
-import mantis.pages.ReportIssuePage;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
